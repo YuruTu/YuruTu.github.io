@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/YuruTu/YuruTu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# 欢迎来到涂裕如的个人主页
+## 代表作
+&emsp;&emsp;[NANA算法库：一个用于学习基础数学(矩阵、遗传算法等的SDK)](https://github.com/YuruTu/NANA)
+## 关于作者
+&emsp;&emsp;喜欢听歌，看电影，种点花花草草；偶尔打打王者荣耀。出生于1996年6月。男性，居住于中国江苏省无锡市。如果你的工作与我的github代码相关，你可以通过邮箱联系我。邮箱：707101557@qq.com。
+## 关于打赏
+&emsp;&emsp;如果你认为打赏我是有必要的，我的支付宝账号也是707101557@qq.com。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YuruTu/YuruTu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Welcome to GitHub Pages
+## About Author
+&emsp;&emsp;I was born on June 2, 1996.I live in Wuxi City, Jiangsu Province, China. If your work is related to my github code, you can contact me by e-mail. My e-mail is 707101557@qq.com. 
+## About reward
+&emsp;&emsp;If you think it is necessary to tip me, My PayPal account is 707101557@qq.com。
